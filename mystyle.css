@@ -1,0 +1,26 @@
+
+
+body {
+    font-family: URW Gothic;
+    background-color:blanchedalmond;
+}
+
+header {
+    background-image: url("velluTechLogo.png");
+    background-repeat: no-repeat;
+}
+
+hr {
+    width: 60%;
+    text-align: right;
+    margin-right: 0pt;
+    padding: 1pt;
+    border-color:dimgray;
+    border-width: 3pt;
+    border-radius: 1pt;
+  }
+
+
+
+
+
